@@ -1,14 +1,13 @@
 # Calculator-Bot
 
-Simple Telegram Calculator-Bot
-
+𝐀 𝐒𝐢𝐦𝐩𝐥𝐞 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫-𝐁𝐨𝐭
 ---
 
 ## License
 
 ```
 #!/usr/bin/env python3
-# Copyright (C) @ZauteKm
+# Copyright (C) @PredatorHackerzZ
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -49,7 +48,7 @@ Simple Telegram Calculator-Bot
 <br/>
 
 <p align="left">
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FZauteKm%2FCalculator-Bot"
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FPredatorHackerzZ%2FCalculator-Bot"
 ">
      <img height="30px" src="https://railway.app/button.svg">
   </a>
@@ -65,7 +64,7 @@ Simple Telegram Calculator-Bot
 <br/>
 
 ```sh
-$ git clone https://github.com/ZauteKm/Calculator-Bot.git
+$ git clone https://github.com/PredatorHackerzZ/Calculator-Bot.git
 $ cd Calculator-Bot
 $ pip3 install -r requirements.txt
 # <create Variables Appropriately>
@@ -78,7 +77,7 @@ $ python3 bot.py
 
 ## Credits
 
-- [Zaute Km](https://github.com/ZauteKm)
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
+✪ [ρяє∂αтoя](https://github.com/PredatorHackerzZ)
+✪ [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ---

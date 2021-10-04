@@ -48,7 +48,7 @@
 <br/>
 
 <p align="left">
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FPredatorHackerzZ%2FCalculator-Bot"
+<a href="https://railway.app/deploy?template=https://github.com/PredatorHackerzZ/Calculator-Bot"
 ">
      <img height="30px" src="https://railway.app/button.svg">
   </a>
@@ -78,6 +78,7 @@ $ python3 bot.py
 ## Credits
 
 ✪ [ρяє∂αтoя](https://github.com/PredatorHackerzZ)
+
 ✪ [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ---

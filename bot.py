@@ -28,7 +28,7 @@ Bot = Client(
 START_TEXT = """
 Hello, This is a Telegram Calculater Bot.
 
-▷ Send me /calculator command and see Magic.
+Send me /calculator command and see Magic.
 
 Made by [Vinuth Bots](https://t.me/Vinuth_BOTs)
 """

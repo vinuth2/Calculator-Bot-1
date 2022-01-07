@@ -26,19 +26,19 @@ Bot = Client(
 
 
 START_TEXT = """
-𝐇𝐞𝐥𝐥𝐨 🥳 {}, 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 [𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐨𝐫-𝐁𝐨𝐭](https://Github.com/PredatorHackerzZ/Calculator-Bot).
+Hello, This is a Telegram Calculater Bot.
 
-▷ 𝐒𝐞𝐧𝐝 𝐦𝐞 /calculator 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐚𝐧𝐝 𝐒𝐞𝐞 𝐌𝐚𝐠𝐢𝐜. 
+▷ Send me /calculator command and see Magic.
 
-𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 𝐛𝐲 ❤️ [@𝐓𝐡𝐞𝐓𝐞𝐥𝐞𝐑𝐨𝐢𝐝](https://t.me/TheTeleRoid)
+Made by [Vinuth Bots](https://t.me/Vinuth_BOTs)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('📕 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞', url='https://github.com/PredatorHackerzZ/Calculator-Bot'),
-        InlineKeyboardButton('👥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ', url='https://t.me/TeleRoidGroup')
+        InlineKeyboardButton('😁 Developer', url='https://t.me/VinuthPMBot'),
+        InlineKeyboardButton('🙋‍♀ Updates', url='https://t.me/Vinuth_BOTs')
         ]]
     )
-CALCULATE_TEXT = "▷ 𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 𝐛𝐲 @TheTeleRoid"
+CALCULATE_TEXT = "▷ Join Updates channel @Vinuth_BOTs"
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton("DEL", callback_data="DEL"),

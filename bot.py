@@ -26,19 +26,19 @@ Bot = Client(
 
 
 START_TEXT = """
-Hello, This is a Telegram Calculater Bot.
+Hello {}, This is a Telegram Calculator Bot.
 
 Send me /calculator command and see Magic.
 
-Made by [Vinuth Bots](https://t.me/Vinuth_BOTs)
+Made by [Roboton](https://t.me/The_Roboton)
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('😁 Developer', url='https://t.me/VinuthPMBot'),
-        InlineKeyboardButton('🙋‍♀ Updates', url='https://t.me/Vinuth_BOTs')
+        InlineKeyboardButton('🙋‍♀ Updates', url='https://t.me/The_Roboton')
         ]]
     )
-CALCULATE_TEXT = "▷ Join Updates channel @Vinuth_BOTs"
+CALCULATE_TEXT = "▷ Updates channel @The_Roboton"
 CALCULATE_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton("DEL", callback_data="DEL"),
